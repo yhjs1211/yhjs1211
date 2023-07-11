@@ -1,7 +1,9 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&text=Hello%20Visitors!-nl-Welcome%20to%20yhjs1211%20Github&fontColor=000000&fontSize=50&animation=twinkling)
-  
+
+---
+
 <h3>📝 STACKS </h3>
 <br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -26,6 +28,8 @@
 <a href="https://hoonsworld1211.tistory.com/"><img src="https://img.shields.io/badge/Tistory-BAE1FF?style=for-the-badge&logo=Tistory&logoColor=black"></a>
 <br>
 <br>
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhjs1211&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
